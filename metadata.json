@@ -4,11 +4,4 @@
   "description": "THIS IS MAKING ME MAD....SAM",
   "image": "https://raw.githubusercontent.com/sks123456/sam-token/main/LOGO.webp"
   "seller_fee_basic_points": 500,
-  "creators": [
-    {
-      "address": "A5KrrY181uUB2tbNcXxdrtwauSNdyxUhYSU7RdCdjfX4",
-      "verified": true,
-      "share": 100
-    }
-  ]
 }
