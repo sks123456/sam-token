@@ -10,10 +10,10 @@
     "extensions": {
       "transfer_fee": {
         "fee_basis_points": 100,
-        "max_fee": "500000000",
+        "max_fee": "500000000"
       },
       "transfer_hook": {
-        "program_id": "Am4d5JMwoVk4aHGsZLaJXVygC4nvdSPFghMakUqth6N8",
+        "program_id": "Am4d5JMwoVk4aHGsZLaJXVygC4nvdSPFghMakUqth6N8"
       }
     },
     "creators": [
@@ -27,15 +27,15 @@
   "attributes": [
     {
       "trait_type": "Token Type",
-      "value": "Utility",
+      "value": "Utility"
     },
     {
       "trait_type": "Network",
-      "value": "Solana",
+      "value": "Solana"
     },
     {
       "trait_type": "Extensions",
-      "value": "Transfer Fee, Transfer Hook, Metadata",
+      "value": "Transfer Fee, Transfer Hook, Metadata"
     }
   ]
 }
