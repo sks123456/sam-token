@@ -3,4 +3,39 @@
   "symbol": "MSM",
   "description": "THIS IS MAKING ME MAD....SAM",
   "image": "https://raw.githubusercontent.com/sks123456/sam-token/main/LOGO.webp"
+  "properties": {
+    "category": "Utility Token",
+    "mint_address": "F9phgTbCQeMsK8oFaT7thkLs3cFRsRMTQjz75WEj86JW",
+    "transfer_hook_program": "Am4d5JMwoVk4aHGsZLaJXVygC4nvdSPFghMakUqth6N8",
+    "extensions": {
+      "transfer_fee": {
+        "fee_basis_points": 100,
+        "max_fee": "500000000"
+      },
+      "transfer_hook": {
+        "program_id": "Am4d5JMwoVk4aHGsZLaJXVygC4nvdSPFghMakUqth6N8"
+      }
+    },
+    "creators": [
+      {
+        "address": "FWfe1A9iV36tLLSEC8nj5ruKN6yF8B9ZHcmguVKGQWcA",
+        "share": 100
+      }
+    ]
+  },
+  "external_url": "https://google.com",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Extensions",
+      "value": "Transfer Fee, Transfer Hook, Metadata"
+    }
+  ]
 }
